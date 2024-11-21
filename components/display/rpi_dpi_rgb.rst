@@ -225,7 +225,7 @@ Makerfabs 4.3" 800x480 display
             - 1         #b5
 
 CrowPanel 4.3" 480x272 Touch Display
-******************************
+*********************************
 
 .. code-block:: yaml
 
@@ -272,7 +272,7 @@ CrowPanel 4.3" 480x272 Touch Display
             - 1         #b5
 
 CrowPanel 5.0" 800x480 Touch Display
-******************************
+*********************************
 
 .. code-block:: yaml
 
@@ -313,7 +313,7 @@ CrowPanel 5.0" 800x480 Touch Display
             - 1         #b5
 
 CrowPanel 7.0" 800x480 Touch Display
-******************************
+*********************************
 
 .. code-block:: yaml
 
