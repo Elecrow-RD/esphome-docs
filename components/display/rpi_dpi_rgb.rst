@@ -4,9 +4,6 @@ RPI_DPI_RGB Display Driver
 .. seo::
     :description: Instructions for setting up 16 bit "RPI_DPI_RGB" parallel displays
     :image: waveshare_touch-s3.jpg
-    :image: CrowPanel_4.3-HMI_ESP32_Display_480x272_RGB.jpg
-    :image: CrowPanel_5.0-HMI_ESP32_Display_800x480_RGB.jpg
-    :image: CrowPanel_7.0-HMI_ESP32_Display_800x480_RGB.jpg
     
 .. _rpi_dpi_rgb:
 
